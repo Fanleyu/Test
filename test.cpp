@@ -1,11 +1,9 @@
  #include <stdio.h>
  
 int main() {
-	int abc[3];
-	abc[999]=dfgsdffg;
-	abc=323;
-	sadfsddf
+bool abc=33;
 	printf("Hello World !");
+	*adf23=23;
 	return 0;
 }
 
